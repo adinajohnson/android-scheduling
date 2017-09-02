@@ -1,0 +1,1 @@
+This is a write-up summarizing my research in the summer of 2017 at the University of Pierre and Marie Curie on the differences in the Android and Linux kernels, specifically pertaining to scheduling.
